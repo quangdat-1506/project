@@ -17,8 +17,8 @@
 
 	<?php
 		include("modules/administration.php");
-		// include("modules/main.php");
-		include("modules/introduce.php");
+		include("modules/main.php");
+		// include("modules/introduce.php");
 		include("modules/footer.php");
 		include("modules/wrapper.php");
 	?>
